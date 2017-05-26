@@ -53,9 +53,8 @@ cacheSolve <- function(x, ...) {
 #[2,] 0.1269841 1.0158730
 
 #Returning cache in the second run
+# cacheSolve(m)
 #calculating cached data.
 #          [,1]      [,2]
 #[1,] 1.0158730 0.1269841
 #[2,] 0.1269841 1.0158730
-# cacheSolve(m)
-
